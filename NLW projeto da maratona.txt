@@ -1,0 +1,2 @@
+Olá pessoa!
+Esse projeto foi feito a partir das aulas da maratona da NLW Rockeseat 8!
